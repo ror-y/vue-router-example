@@ -10,7 +10,9 @@
 
 <template>
   <div id="app">
-    <header><router-link to="/">Lorem Ipsum in different languages</router-link></header>
+    <header>
+      <router-link to="/">Lorem Ipsum in different languages</router-link>
+    </header>
     <nav>
       <ul>
         <li><router-link to="/armenian">Armenian</router-link></li>
