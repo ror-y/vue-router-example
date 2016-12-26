@@ -5,13 +5,14 @@
 // create src/router/index.js and write
 // write main.js
 // write App.vue
+// add and discuss the `exact` attr to the 'home' <router-link>
 // show Vue dev tools
 // add a name to the language in the exported object of each component
 
 <template>
   <div id="app">
     <header>
-      <router-link to="/">Lorem Ipsum in different languages</router-link>
+      <router-link to="/" exact>Lorem Ipsum in different languages</router-link>
     </header>
     <nav>
       <ul>
