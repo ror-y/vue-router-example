@@ -6,8 +6,3 @@ const app = new Vue({
     ...App,
     router
 }).$mount('#app')
-
-export {
-    app,
-    router
-}

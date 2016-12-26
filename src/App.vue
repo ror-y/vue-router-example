@@ -23,4 +23,13 @@
 </template>
 
 <script>
+export default {
+  name: 'App'
+}
 </script>
+
+<style>
+.router-link-active {
+  color: turquoise
+}
+</style>
