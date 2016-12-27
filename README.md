@@ -1,6 +1,6 @@
-# vue-router-example-2
+# vue-router-example
 
-> vue-router-example-2
+> vue-router-example
 
 ## Build Setup
 
