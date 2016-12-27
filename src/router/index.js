@@ -18,5 +18,5 @@ export default new Router({
   }, {
     path: '/greek',
     component: Greek
-  }, ]
+  }]
 })
