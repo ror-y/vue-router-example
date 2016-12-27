@@ -5,7 +5,7 @@
 // create src/router/index.js and write
 // write main.js
 // write App.vue
-// add the `exact` attr to the 'home' <router-link>
+// add the `exact` attr to the 'home' router-link
 // show Vue dev tools
 // add a name to the language in the exported object of each component
 
