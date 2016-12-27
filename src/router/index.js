@@ -10,8 +10,8 @@ import Greek from '../components/Greek.vue'
 export default new Router({
     mode: 'history',
     routes: [
-        {path: '/armenian', component: Armenian},
-        {path: '/chinese', component: Chinese},
-        {path: '/greek', component: Greek},
+        { path: '/armenian', component: Armenian },
+        { path: '/chinese', component: Chinese },
+        { path: '/greek', component: Greek },
     ]
 })
